@@ -1,0 +1,2 @@
+voice_turtlebot
+-DCATKIN_DEVEL_PREFIX=/root/problem_a_ws/devel -DCMAKE_INSTALL_PREFIX=/root/problem_a_ws/install -G Unix Makefiles

@@ -1,0 +1,8 @@
+prefix=/root/problem_a_ws/install
+
+Name: voice_turtlebot
+Description: Description of voice_turtlebot
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,4 @@
+{
+    "remote.autoForwardPortsFallback": 0,
+    "cmake.sourceDirectory": "/root/problem_a_ws/src/voice_turtlebot"
+}
